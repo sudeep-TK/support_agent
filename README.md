@@ -8,8 +8,7 @@ It answers user queries using a hybrid approach:
 - Escalation detection for technical or complex issues
 
 ## Live Demo
-(Replace this with your Streamlit App URL)
-
+https://quj4ppyjf9tdhwl8h2apye.streamlit.app/
 ## Features
 - Load or edit FAQ items  
 - Simple keyword-based matching  
